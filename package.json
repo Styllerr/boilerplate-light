@@ -1,0 +1,11 @@
+{
+  "name": "teststart",
+  "version": "1.0.0",
+  "description": "start app whith boilerplait",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yevhenii Chukavov <cork@ukr.net>",
+  "license": "ISC"
+}
